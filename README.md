@@ -1,7 +1,7 @@
 # DELTA-DEMO
 This is a demo for Git and Github class
 
-# teachergit
+# teacher
 synoep
 
 # student
